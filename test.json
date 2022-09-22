@@ -1,0 +1,11 @@
+{
+  "Code": 0,
+  "Msg": "网络异常",
+  "UpdateStatus": 1,
+  "VersionCode": 60,
+  "VersionName": "2.8.0",
+  "ModifyContent": "1:巡检系统优化\n2:修复已知问题",
+  "DownloadUrl": "http://118.31.68.71/app/intelligenceWater.apk",
+  "ApkSize": 45850,
+  "ApkMd5": ""
+}
